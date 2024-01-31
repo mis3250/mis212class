@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./dataanalysis/visual-aids/build/lib"
+    ]
+}
